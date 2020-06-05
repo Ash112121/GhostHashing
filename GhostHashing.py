@@ -106,6 +106,7 @@ def Hash(stringh, salt, sharounds):
     CharacterHash14 = ""
     CharacterHash15 = ""
     CharacterHash16 = ""
+    testcommit = ""
     for i in range(16):
         try:
             if i == 1:
