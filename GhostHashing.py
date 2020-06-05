@@ -5,7 +5,7 @@ import hashlib
 import string
 import requests
 
-#Created by zbbsoomerush#6024 on Discord
+#Created by zbbsoomerush#6024 on Discord j
 
 def Hash(stringh, salt, sharounds):
     if len(str(stringh)) == 0:
@@ -106,6 +106,7 @@ def Hash(stringh, salt, sharounds):
     CharacterHash14 = ""
     CharacterHash15 = ""
     CharacterHash16 = ""
+    testcommit = ""
     for i in range(16):
         try:
             if i == 1:
