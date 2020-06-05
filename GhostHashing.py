@@ -5,7 +5,7 @@ import hashlib
 import string
 import requests
 
-#Created by zbbsoomerush#6024 on Discord
+#Created by zbbsoomerush#6024 on Discord j
 
 def Hash(stringh, salt, sharounds):
     if len(str(stringh)) == 0:
